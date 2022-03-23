@@ -13,7 +13,7 @@
     
   <name>padre</name>
     
-  <url>http://www.example.com</url>
+  <url>${web}</url>
     
   <properties>
         
